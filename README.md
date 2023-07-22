@@ -1,4 +1,6 @@
 # Email Validator GUI
+![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 This is a simple Python GUI application that validates email addresses using regular expressions. It checks for basic email format validation and also validates email addresses for popular email services such as Gmail, Outlook (including Hotmail), and Yahoo.
 
