@@ -39,21 +39,32 @@ Here are some examples of email addresses that can be tested using the Email Val
 ### Valid Email Addresses:
 
 john.doe@gmail.com
+
 alice.smith@hotmail.com
+
 mike123@yahoo.com
+
 jane_doe@outlook.com
+
 support@company.com
 
 ### Invalid Email Addresses:
 john.doe
-alice.smith@com
-mike123@123
-jane_doe@outlook
-support@company
-Email Addresses for Popular Services:
 
+alice.smith@com
+
+mike123@123
+
+jane_doe@outlook
+
+support@company
+
+### Email Addresses for Popular Services:
+ 
 test123@gmail.com (Valid Gmail address)
+
 user456@hotmail.com (Valid Outlook/Hotmail address)
+
 example@yahoo.com (Valid Yahoo address)
 
 Feel free to use and modify this code to enhance your Python programming skills! ^^
