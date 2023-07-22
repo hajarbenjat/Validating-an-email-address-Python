@@ -36,7 +36,7 @@ Please note that while this application performs basic email format validation, 
 ## Examples of email addresses
 Here are some examples of email addresses that can be tested using the Email Validator GUI:
 
-# Valid Email Addresses:
+### Valid Email Addresses:
 
 john.doe@gmail.com
 alice.smith@hotmail.com
@@ -44,7 +44,7 @@ mike123@yahoo.com
 jane_doe@outlook.com
 support@company.com
 
-# Invalid Email Addresses:
+### Invalid Email Addresses:
 john.doe
 alice.smith@com
 mike123@123
